@@ -1,0 +1,11 @@
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# VScode project files
+.vscode/

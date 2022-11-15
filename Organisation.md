@@ -2,7 +2,7 @@
 
 Organisationen, die autarke Teams etablieren wollen, haben diverse Topologien zur Auswahl.
 
-Eine vielfältiger Überblick im Kontext von DevOps findet sich z.B. bei den [DevOps Topologies](https://web.devopstopologies.com/).
+Ein vielfältiger Überblick im Kontext von DevOps findet sich z.B. bei den [DevOps Topologies](https://web.devopstopologies.com/).
 Die Orientierung gestaltet sich jedoch schwierig. Der Austausch der Firmen im Roundtable hat ergeben, dass verschiedene dieser Topologien - mit unterschiedlichem Erfolg - erprobt wurden.
 
 ## Idealbild

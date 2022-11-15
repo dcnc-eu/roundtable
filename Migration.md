@@ -1,7 +1,7 @@
 # Cloud Migration
 
 Die Entscheidung für eine Cloud-Strategie kann diverse Ursachen und Beweggründe haben.
-Das Warum ist für die erfolgreiche Umsetzung einer Cloud-Strategie nicht entscheidend, viel mehr sind es die Rahmenbedingungen innerhalb der die Umsetzung erfolgt.
+Das Warum ist für die erfolgreiche Umsetzung einer Cloud-Strategie nicht entscheidend, viel mehr sind es die Rahmenbedingungen innerhalb derer die Umsetzung erfolgt.
 
 ## Cloud-Strategie
 
@@ -9,7 +9,7 @@ Die Umsetzung einer Cloud-Strategie findet meist in folgendem Spannungsfeld stat
 
 ![](tension-triangle.svg)
 
-* **Regulatorik** - Hierunter fallen alle unabdingbaren Rahmenbedingungen wie Datenschutz, Compliance, Rechtliche- oder Unternehmensvorgaben ("Governance")
+* **Regulatorik** - Hierunter fallen alle unabdingbaren Rahmenbedingungen wie Datenschutz, Compliance, Rechts- oder Unternehmensvorgaben ("Governance")
 * **Produkt** - Fach-Teams, deren primäre Aufgabe das Liefern von Business-Value ist
 * **Plattform** - Technische wie organisatorische Basis auf der die Fach-Teams arbeiten
 
@@ -20,16 +20,16 @@ Eine Cloud-Migration erfolgt zumeist während des laufenden Geschäftsbetriebs. 
 ## Rahmenbedingungen
 
 Die folgenden Umstände werden als förderlich in der Umsetzung einer Cloud-Strategie angesehen.
-Diese können grob in organisatorische wie technische Faktoren unterteilt werden, wobei die Abgrenzung nicht immer trennscharf ist.
-Desweiteren ist eine zeitliche Dimension vorhanden, welche Aspekte bereits vor dem operativen Beginn der Cloud Migration implementiert werden sollten (markiert mit _(0)_), was zu Beginn vorrangig umgesetzt werden sollte ( _(1)_ ), und letzendlich welche Themen im Laufe einer Migration angegangen werden sollten ( _(2)_ ).
+Diese können grob in organisatorische und technische Faktoren unterteilt werden, wobei die Abgrenzung nicht immer trennscharf ist.
+Des Weiteren ist eine zeitliche Dimension vorhanden, welche Aspekte bereits vor dem operativen Beginn der Cloud Migration implementiert werden sollten (markiert mit _(0)_), was zu Beginn vorrangig umgesetzt werden sollte ( _(1)_ ), und letztendlich welche Themen im Laufe einer Migration angegangen werden sollten ( _(2)_ ).
 
 ### Organisatorisch
 
 * **Dedizierte Weiterbildungszeit** _(0)_ - Der technologische Wandel durch eine Cloud-Migration ist meist im Tagesgeschäft nicht angemessen unterzubringen. Signifikante Zeit sollte regelmäßig für das Aneignen der neuen Technologien reserviert werden. Eine Kombination aus Schulungsmaßnahmen und Selbststudium verspricht den besten Erfolg.
-* **Kontinuierlicher Lifecycle** _(0)_ - Die Wolken bewegen sich schnell. Das Bewusstsein um die Notwendigkeit der ständigen Erneuerung der Systeme muss sowohl beim Management wie auch in den Teams vorhanden sein. Technische Themen sind neben der Businesspriorisierung unterzubringen. Das Sprichwort "Wir bauen heute die Legacy von morgen", ist in der Cloud allgegenwärtig, dem kann nur durch ständige Anpassung an die technologische Entwicklung entegegen gewirkt werden ("Continuous Refactoring").
+* **Kontinuierlicher Lifecycle** _(0)_ - Die Wolken bewegen sich schnell. Das Bewusstsein um die Notwendigkeit der ständigen Erneuerung der Systeme muss sowohl beim Management als auch in den Teams vorhanden sein. Technische Themen sind neben der Businesspriorisierung unterzubringen. Das Sprichwort "Wir bauen heute die Legacy von morgen", ist in der Cloud allgegenwärtig, dem kann nur durch ständige Anpassung an die technologische Entwicklung entgegen gewirkt werden ("Continuous Refactoring").
 * **Frühzeitige Cloud Governance** _(0)_ - Die Möglichkeiten der Cloud sind unerschöpflich, sowohl technisch wie auch finanziell. Sowohl der finanzielle wie auch der regulatorische Aspekt sollten von Anfang an ganzheitlich beachtet werden. Ein zu unkontrollierter Cloud-Move bremst später stark aus oder kann langfristig übermäßig teuer werden.
 * **Fehlerkultur** _(1)_ - Besonders in der Anfangsphase der Cloud-Migration wird aus Fehlern gelernt. Ein offener Umgang mit Fehlschlägen hilft Wiederholungen zu vermeiden und kollektiv daraus zu lernen.
-* **Community Bildung** _(1)_ - Organisationsdurchdringende Communities helfen die obigen Punkte effizienter umzusetzen. Des weiteren sind sie ein sehr effizentes Mittel der Wissensverteilung auch organisationseinheitsübergreifend.
+* **Community Bildung** _(1)_ - Organisationsdurchdringende Communities helfen die obigen Punkte effizienter umzusetzen. Des Weiteren sind sie ein sehr effizientes Mittel der Wissensverteilung auch organisationseinheitsübergreifend.
 
 ### Technisch
 
@@ -48,4 +48,4 @@ Desweiteren ist eine zeitliche Dimension vorhanden, welche Aspekte bereits vor d
 Einige Punkte, die womöglich nicht ganz offensichtlich sind, erschweren oder bremsen den Höhenflug in die Wolken. Eine Organisation sollte mit diesen potentiellen Problemen bewusst umgehen.
 
 * **Mangel an Kenntnissen bei bestehenden Dienstleistern** - Langjährige Dienstleister sind auf den Stand der Dinge im Unternehmen eingespielt. Innovation wird eher selten durch sie getrieben, sehr schnell werden sie bei internen Strategieänderungen abgehängt, da sie meist nicht in der direkten Kommunikation sind.
-* **Not invented here** - Man sollte unbedingt dem Drang widerstehen, Standardprobleme selbst lösen zu wollen. Cloud-Angebote und -Services sind bereits ein sehr starke Abstraktion, es gibt keinen Grund diese selbst weiter zu abstrahieren. Sollte man eine Entwickler-Plattform brauchen oder wollen, dann gibt es Standardprodukte - als OpenSource, mit und ohne Support, wie auch kommerziell. Gerade im Cloud-Umfeld gilt: Die wertvollen und raren eigenen Ressourcen sollten vorangig das Kerngeschäft unterstützen.
+* **Not invented here** - Man sollte unbedingt dem Drang widerstehen, Standardprobleme selbst lösen zu wollen. Cloud-Angebote und -Services sind bereits eine sehr starke Abstraktion, es gibt keinen Grund diese selbst weiter zu abstrahieren. Sollte man eine Entwickler-Plattform brauchen oder wollen, dann gibt es Standardprodukte - als OpenSource, mit und ohne Support, wie auch kommerziell. Gerade im Cloud-Umfeld gilt: Die wertvollen und raren eigenen Ressourcen sollten vorrangig das Kerngeschäft unterstützen.

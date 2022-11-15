@@ -11,7 +11,7 @@ Ein empfehlenswertes Idealbild könnte wie folgt aussehen:
 
 ![DevOps Topology](devops-topo.svg)
 
-* **Dev** - Produkt-Team mit Fokus auf Umsetzung/Bereitstellung von Business-Funktionalität. Klassisch sind dies Software-Entwickler:innen ohne besonderen Betriebs- oder Infrastrukturhintergrund.
+* **Dev** - Produkt-Team mit Fokus auf Umsetzung/Bereitstellung von Business-Funktionalität. Klassisch sind dies Software-Entwickler ohne besonderen Betriebs- oder Infrastrukturhintergrund.
 * **DevOps** - Mitglieder des Produkt-Teams, die neben der Software-Entwicklung auch Infrastruktur-Tätigkeiten und Betrieb übernehmen. Idealerweise besteht das Produkt-Team ausschließlich aus diesem Profil, da dies jedoch utopisch ist, sollte eine ausreichende, mindestens jedoch redundante Personenanzahl je Team vorhanden sein. Produkt-Teams dürfen und sollen zur Plattform beitragen.
 * **CCoE** (Cloud Center of Enablement) - Eine Gruppe von Cloud-Experten, die zwar dem Plattform-Team angehören, aber als Berater allen Teams mit Rat und Tat zur Seite stehen. Ihre primäre Aufgabe ist die Unterstützung der Produkt-Teams in der Umsetzung von cloudbasierten Lösungen und des Aufbaus der DevOps-Rollen in jedem Team.
 * **Plattform** - Dediziertes Team, das den Produkt-Teams die sichere Verwendung der Cloud zugänglich macht. Dies erreichen sie u.a. dadurch, dass sie Werkzeuge für wiederkehrende Herausforderungen bereitstellen und allgemeine Qualitätsanforderungen in der Plattform verankern. Hierzu gehören typischerweise Aufgaben wie:

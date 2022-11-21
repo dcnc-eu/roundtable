@@ -1,0 +1,19 @@
+<svg viewBox="0 0 114 110" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="114" height="110" style="fill: rgb(255, 255, 255);"></rect>
+  <ellipse style="paint-order: stroke; fill: rgba(255, 191, 0, 0.8); stroke: rgb(187, 146, 0);" cx="42.045" cy="43.488" rx="40" ry="40"></ellipse>
+  <ellipse style="stroke: rgb(0, 106, 192); fill: rgba(74, 159, 255, 0.84);" cx="96.684" cy="45.488" rx="15" ry="15"></ellipse>
+  <ellipse style="fill: rgba(70, 223, 78, 0.67); stroke: rgb(62, 163, 49);" cx="71.684" cy="45.488" rx="30" ry="17"></ellipse>
+  <ellipse style="paint-order: stroke; fill: rgb(255, 191, 0);" cx="22.749" cy="92.703" rx="3" ry="3"></ellipse>
+  <ellipse style="fill: rgb(70, 223, 78);" cx="22.749" cy="103.703" rx="3" ry="3"></ellipse>
+  <ellipse style="fill: rgb(74, 158, 255);" cx="71.749" cy="103.703" rx="3" ry="3"></ellipse>
+  <ellipse style="stroke-opacity: 0; stroke: rgb(255, 255, 255); fill: rgb(0, 255, 157);" cx="90.349" cy="52.703" rx="5" ry="5"></ellipse>
+  <ellipse style="fill: rgb(0, 255, 157);" cx="71.749" cy="92.703" rx="3" ry="3"></ellipse>
+  <path d="M 61.483 25.806 L 59.184 28.205 L 59.381 28.498 L 62.129 25.605 L 59.381 22.727 L 59.184 23.022 L 61.483 25.42 L 54.802 25.42 L 54.802 25.806 L 61.483 25.806 Z" style="fill: rgb(62, 163, 49);" transform="matrix(-0.2404, -0.970674, 0.970674, -0.2404, 47.659223, 88.52068)"></path>
+  <path d="M 62.655 65.863 L 60.356 68.262 L 60.553 68.555 L 63.301 65.662 L 60.553 62.784 L 60.356 63.079 L 62.655 65.477 L 55.974 65.477 L 55.974 65.863 L 62.655 65.863 Z" style="fill: rgb(62, 163, 49);" transform="matrix(-0.224982, 0.974363, -0.974363, -0.224982, 137.040787, 22.335385)"></path>
+  <path d="M 46.269 31.966 L 42.562 34.365 L 42.879 34.658 L 47.311 31.765 L 42.879 28.887 L 42.562 29.182 L 46.269 31.58 L 35.495 31.58 L 35.495 31.966 L 46.269 31.966 Z" style="paint-order: fill; fill: rgb(62, 163, 49);" transform="matrix(-0.692111, -0.721791, 0.721791, -0.692111, 47.125376, 83.646912)"></path>
+  <path d="M 44.195 57.285 L 40.488 59.684 L 40.805 59.977 L 45.237 57.084 L 40.805 54.206 L 40.488 54.501 L 44.195 56.899 L 33.421 56.899 L 33.421 57.285 L 44.195 57.285 Z" style="fill: rgb(62, 163, 49);" transform="matrix(-0.759109, 0.650963, -0.650963, -0.759109, 106.348477, 74.828456)"></path>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6px;" x="27.749" y="94.703">Dev</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6px;" x="27.749" y="105.703">DevOps</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6px;" x="76.749" y="94.703">CCoE</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6px;" x="76.749" y="105.703">Plattform</text>
+</svg>

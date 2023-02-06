@@ -20,7 +20,8 @@ Ein empfehlenswertes Idealbild könnte wie folgt aussehen:
   * Zentrale Kostenkontrolle
   * Betrieb zentraler Dienste
   * Bereitstellung von allgemeingültigem Tooling
-Ein wichtiger Aspekt ist, dass die Plattform ein offenes, erweiterbares, kollaboratives System darstellt. Die Plattform ist die Basis, auf der die Produkt-Teams arbeiten, nicht die Grenze innerhalb der sie arbeiten.
+  
+  Ein wichtiger Aspekt ist, dass die Plattform ein offenes, erweiterbares, kollaboratives System darstellt. Die Plattform ist die Basis, auf der die Produkt-Teams arbeiten, nicht die Grenze innerhalb der sie arbeiten.
 
 ## Evolution
 
